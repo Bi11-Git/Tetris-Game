@@ -1,9 +1,6 @@
 # Tetris-Game
 A Simple Tetris Game in Java
 
-# Author
-
-Βασίλης Χύσκαϊ
 
 ## installations
 
